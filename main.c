@@ -1,11 +1,8 @@
 #include <stdio.h>
 
 int main(void){
-	int n;
+	int n, m;
 
-	scanf("%d", &n);
-	printf("%d\n", n);
-
-	printf("changing\n");
+	scanf("%d %d", &n, &m);
 	return 0;
 }
