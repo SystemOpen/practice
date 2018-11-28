@@ -5,5 +5,7 @@ int main(void){
 
 	scanf("%d", &n);
 	printf("%d\n", n);
+
+	printf("changing\n");
 	return 0;
 }
